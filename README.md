@@ -24,11 +24,11 @@
 
 I am a Junior Unity Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 
-- :man_technologist: Work with Unity2D, C#, Python
+- :man_technologist: Work experience with Unity 2d, C#, Python, Java, CSS, HTML
 - :detective: Ability to read other people's code and conduct refactoring
 - :brain: Fast learner
 - :cop: Responsibility and delivery on deadlines
-- :video_game: Good visibility and extensive gaming experience
+- :video_game: Extensive gaming experience in 2D and 3D games.
 - :iphone: Android development experience
 - :hammer_and_wrench: Experience with Cinemachine and DoTween
 - :mailbox: How to reach me: <a href="mailto:hjejjrjejjaka@gmail.com">Gmail</a>
