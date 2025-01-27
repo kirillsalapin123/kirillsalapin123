@@ -25,11 +25,13 @@
 
 I am a Junior Unity Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-
-- :seedling: Exploring Technical Content Writing.
-
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :man_technologist: Work with Unity2D, C#, Python
+- :detective: Ability to read other people's code and conduct refactoring
+- :brain: Fast learner
+- :cop: Responsibility and delivery on deadlines
+- :video_game: Good visibility and extensive gaming experience
+- :iphone: Android development experience
+- :hammer_and_wrench: Experience with Cinemachine and DoTween
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 
