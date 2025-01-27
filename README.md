@@ -15,7 +15,9 @@
   <br>
   <img src="https://komarev.com/ghpvc/?username=kirillsalapin123&style=flat-square&color=blue" alt=""/>
   <h1>
-     Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>My  name is Kirill Shalyapin
+     Hi<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    <br>
+     My  name is Kirill Shalyapin
   </h1>
 </div>
 <div align="center">
@@ -32,8 +34,7 @@ I am a Junior Unity Developer <img src="https://media.giphy.com/media/WUlplcMpOC
 - :video_game: Good visibility and extensive gaming experience
 - :iphone: Android development experience
 - :hammer_and_wrench: Experience with Cinemachine and DoTween
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :mailbox: How to reach me: <a href="mailto:hjejjrjejjaka@gmail.com">Gmail</a>
 
 ---
 
