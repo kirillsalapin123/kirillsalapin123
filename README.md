@@ -6,10 +6,10 @@
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="vk.com/id558996118">
+  <a href="">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="your-twitter-URL">
+  <a href="vk.com/id558996118">
     <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=Vk&logoColor=white" alt="Vk Badge"/>
   </a>
   <br>
