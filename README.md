@@ -9,7 +9,7 @@
   <a href="">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="vk.com/id558996118">
+  <a href="https://vk.com/id558996118">
     <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=Vk&logoColor=white" alt="Vk Badge"/>
   </a>
   <br>
